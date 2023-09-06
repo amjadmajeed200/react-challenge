@@ -1,0 +1,86 @@
+{
+    "users": 
+      {
+        "id": 1,
+        "name": "John Doe",
+        "email": "johndoe@gmail.com",
+        "image": "https://www.gravatar.com/avatar/2c7d99fe281ecd3bcd65ab915bac6dd5?s=50"
+      },
+      "cardData": [
+        {
+          "id": 1,
+          "title": "First Project",
+          "createdDate": "12 Aug, 2023"
+        },
+        {
+          "id": 2,
+          "title": "First Project",
+          "createdDate": "12 Aug, 2023"
+        },
+        {
+          "id": 3,
+          "title": "First Project",
+          "createdDate": "12 Aug, 2023"
+        },
+        {
+          "id": 4,
+          "title": "First Project",
+          "createdDate": "12 Aug, 2023"
+        },
+        {
+          "id": 5,
+          "title": "First Project",
+          "createdDate": "12 Aug, 2023"
+        },
+        {
+          "id": 6,
+          "title": "First Project",
+          "createdDate": "12 Aug, 2023"
+        },
+        {
+          "id": 7,
+          "title": "First Project",
+          "createdDate": "12 Aug, 2023"
+        },
+        {
+          "id": 8,
+          "title": "First Project",
+          "createdDate": "12 Aug, 2023"
+        },
+        {
+          "id": 9,
+          "title": "First Project",
+          "createdDate": "12 Aug, 2023"
+        },
+        {
+          "id": 10,
+          "title": "First Project",
+          "createdDate": "12 Aug, 2023"
+        },
+        {
+          "id": 11,
+          "title": "First Project",
+          "createdDate": "12 Aug, 2023"
+        },
+        {
+          "id": 12,
+          "title": "First Project",
+          "createdDate": "12 Aug, 2023"
+        },
+        {
+          "id": 13,
+          "title": "First Project",
+          "createdDate": "12 Aug, 2023"
+        },
+        {
+          "id": 14,
+          "title": "First Project",
+          "createdDate": "12 Aug, 2023"
+        },
+        {
+          "id": 15,
+          "title": "First Project",
+          "createdDate": "12 Aug, 2023"
+        }]
+  }
+  
